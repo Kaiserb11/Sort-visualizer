@@ -13,5 +13,6 @@ I have visualised the following sorting algorithms using Pygame.
 - Pygame (pip install pygame)
 
 # how to run
-- select folder based on the sorting technique you wanna see
-- run <b>show.py</b> inside the selected folder
+- Run the code
+- Select the sorting technique in the terminal
+- Visualization will occur in the pygame window
