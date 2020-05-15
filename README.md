@@ -10,4 +10,5 @@ I have used my limited knowledge of Pygame and made kind of a fun way to revice 
 - Pygame (pip install pygame)
 
 # how to run
-Run the file named <b>visualizer
+- select folder based on the sorting technique you wanna see
+- run show.py inside the selected folder
