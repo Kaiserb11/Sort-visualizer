@@ -11,4 +11,4 @@ I have used my limited knowledge of Pygame and made kind of a fun way to revice 
 
 # how to run
 - select folder based on the sorting technique you wanna see
-- run show.py inside the selected folder
+- run <b>show.py</b> inside the selected folder
