@@ -25,19 +25,11 @@ while running:
         pygame.draw.rect(win, (255, 255, 255), (x, y, rect_high, j))
         pygame.display.update()
         x = x + 15
-<<<<<<< HEAD
 
     p = p+1
     if p == len(val)-1:
         p = 0
 
-=======
-        
-    p = p+1
-    if p == len(val)-1:
-        p = 0
-    
->>>>>>> d37191d6488ac734adbaa3ff6de0248f546aeeda
     x = 5
 
 
