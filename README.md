@@ -3,7 +3,6 @@ I have used my limited knowledge of Pygame and made kind of a fun way to revice 
 
 # Sorting techniques used here
 - Bubble Sort
-- quick Sort
 - selection Sort
 
 # Requiremets
