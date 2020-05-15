@@ -24,7 +24,7 @@ while running:
         p = 0
 
     win.fill((0, 0, 0))
-    val = sort_algo.bubble(val, p)
+    val = bubble_sort.bubble(val, p)
     for j in val:
         pygame.draw.rect(win, (255, 255, 255), (x, y, rect_high, j))
         pygame.display.update()
