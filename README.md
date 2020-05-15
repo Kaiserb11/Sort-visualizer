@@ -1,9 +1,13 @@
 # Sorting Algorithm visualizer
-I have used my limited knowledge of Pygame and made kind of a fun way to revice the basics of sorting techniques by making a visualisaiotn of few of them in Pygame.
+I have visualised the following sorting algorithms using Pygame.
 
 # Sorting techniques used here
 - Bubble Sort
-- selection Sort
+- Selection Sort
+
+# How it looks
+
+<img src = "image/sort_look.PNG" width = 300>
 
 # Requiremets
 - Pygame (pip install pygame)
