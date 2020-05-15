@@ -19,16 +19,17 @@ while running:
         if event.type == pygame.QUIT:
             running = False
 
-    p = p+1
-    if p == len(val)-1:
-        p = 0
-
     win.fill((0, 0, 0))
     val = bubble_sort.bubble(val, p)
     for j in val:
         pygame.draw.rect(win, (255, 255, 255), (x, y, rect_high, j))
         pygame.display.update()
         x = x + 15
+        
+    p = p+1
+    if p == len(val)-1:
+        p = 0
+    
     x = 5
 
 
