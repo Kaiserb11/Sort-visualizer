@@ -9,6 +9,8 @@ I have visualised the following sorting algorithms using Pygame.
 
 <img src = "image/sort_look.PNG" width = 300>
 
+<b>it will generate random lines in the pygame window as shown in the picture and then sort them in an increasing order</b> 
+
 # Requiremets
 - Pygame (pip install pygame)
 
