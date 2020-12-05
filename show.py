@@ -17,7 +17,7 @@ choice = int(input())
 
 running = True
 while running:
-    pygame.time.delay(50)
+    pygame.time.delay(200)
     for event in pygame.event.get():
         if event.type == pygame.QUIT:
             running = False
